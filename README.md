@@ -2,7 +2,7 @@
 
 [**English**](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中文简体**](README_ZH-CN.md)
 
-This project provides a simplified multi-proxy server CC attack simulator for educational and research purposes. Please note that any form of DDoS attack is illegal, and you must adhere to legal and ethical standards.
+This project provides a simplified multi-proxy server DDOS attack simulator for educational and research purposes. Please note that any form of DDoS attack is illegal, and you must adhere to legal and ethical standards.
 
 ## Features
 
